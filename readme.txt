@@ -13,7 +13,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 An announcement plugin that shows your announcements/breaking news/offers/notice on top of the website. 
 Stylish show of announcements will attract the eye of your visitors. Fully controlled by date. Best suitable for promotional offers, Notices etc.
-
+Here you can get more information about this plugin - http://www.rupok.me/projects
 
 == Installation ==
 
@@ -39,8 +39,8 @@ A: Announces/Breaking newses will appear as a fade-in slideshows that will easil
 == Screenshots ==
 
 1. When you activate this plugin you will get a menu named "Announcements" . You can add news/announcements here.
-
 2. Select the Date range of an announce/offer while adding it.
+3. Here you can get more information about this plugin with screenshots - http://www.rupok.me/projects
 
 
 == Changelog ==
